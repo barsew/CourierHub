@@ -1,21 +1,18 @@
-CourierHub - Aplikacja do Wysyłki Paczek i Śledzenia
-Opis
-CourierHub to aplikacja internetowa umożliwiająca łatwe wysyłanie paczek i śledzenie ich statusu za pośrednictwem różnych firm kurierskich. 
-Aplikacja oferuje intuicyjny interfejs użytkownika, umożliwiający użytkownikom wygodne korzystanie z usług dostawy paczek.
+CourierHub - Parcel Shipping and Tracking Application for University project 
 
-Funkcje
+Description:
+CourierHub is a web application that enables easy parcel shipping and tracking through various courier companies. The application offers an intuitive user interface, allowing users to conveniently utilize parcel delivery services.
 
-Wysyłanie Paczek:
--Wypełnij formularz wysyłki, podając informacje dotyczące paczki, takie jak wymiary, waga i adres odbiorcy.
--Wybierz preferowaną firmę kurierską spośród dostępnych opcji.
+Features:
 
-Wybór Firmy Kurierskiej:
--Aplikacja umożliwia wybór spośród różnych renomowanych firm kurierskich, z którymi współpracuje.
--Użytkownicy mogą porównać koszty i dostępne opcje dostawy, aby wybrać najbardziej odpowiednią firmę kurierską.
-
-Śledzenie Paczki:
--Po wysłaniu paczki użytkownicy mogą śledzić jej status w czasie rzeczywistym.
--Numer śledzenia dostarczany przez firmę kurierską umożliwia monitorowanie statusu dostawy na bieżąco.
-
-Historia Wysyłek:
-Aplikacja przechowuje historię wszystkich wysłanych paczek, co ułatwia śledzenie wcześniejszych transakcji i dostarcza informacji o poprzednich dostawach.
+Parcel Shipping:
+ - Fill out the shipping form, providing information about the parcel such as dimensions, weight, and recipient address.
+ - Choose the preferred courier company from the available options.
+Courier Company Selection:
+ - The application allows selection from various reputable courier companies it collaborates with.
+ - Users can compare costs and available delivery options to choose the most suitable courier company.
+Parcel Tracking:
+ - After sending the parcel, users can track its status in real-time.
+ - The tracking number provided by the courier company enables monitoring of the delivery status continuously.
+Shipping History:
+ - The application stores the history of all sent parcels, facilitating tracking of previous transactions and providing information about past deliveries.
